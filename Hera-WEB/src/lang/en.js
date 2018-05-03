@@ -1,0 +1,91 @@
+export default {
+  route: {
+    Home: 'Home',
+    Order: 'Order',
+    AllOrders: 'AllOrders',
+    Unshipped: 'Unshipped',
+    PartialShipped: 'PartialShipped',
+    FullShipped: 'FullShipped',
+    Obligation: 'Obligation',
+    Completed: 'Completed',
+    Pending: 'Pending',
+    Prodcut: 'Prodcuts',
+    'All-Product': 'All-Product',
+    Transfers: 'Transfers',
+    Inventory: 'Inventory',
+    Collections: 'Collections',
+    Gift: 'Gift',
+    Customers: 'Customers',
+    Analytics: 'Analytics',
+    Dashboard: 'Dashboard',
+    Reports: 'Reports',
+    Live: 'Live',
+    Discounts: 'Discounts',
+    Admin: 'Admin',
+    Role: 'Role',
+    User: 'User',
+    Resource: 'Resource',
+    CustomerInfo: 'CustomerInfo',
+    Detail: 'Detail',
+    OrderInfo: 'OrderInfo'
+  },
+  navbar: {
+    logOut: 'Log Out',
+    home: 'Home',
+    screenfull: 'screenfull'
+  },
+  login: {
+    title: 'Login Form',
+    logIn: 'Log in',
+    username: 'Username',
+    password: 'Password'
+  },
+  tool: {
+    export: 'Export',
+    refresh: 'Refresh',
+    search: 'Search',
+    reset: 'Reset',
+    edit: 'Edit',
+    save: 'Save'
+  },
+  order: {
+    id: 'ID',
+    orderNo: 'OrderNo',
+    date: 'Date',
+    customer: 'Customer',
+    paymentStatus: 'Payment Status',
+    orderStatus: 'Order Status',
+    transport: 'Transport(freight)',
+    currency: 'Currency',
+    payment: 'Payment',
+    total: 'Total',
+    detail: 'Order Details',
+    note: 'Note',
+    refund: 'Refund',
+    customer: 'Customer',
+    contact: 'ORDER CONTACT',
+    shipping: 'SHIPPING ADDRESS'
+  },
+  customer: {
+    avatar: 'Avatar',
+    userInfo: 'UserInfo',
+    orderCount: 'OrderCount',
+    spent: 'Spent',
+    contact: 'Contact',
+    defaultAddress: 'DEFAULT ADDRESS',
+    recent: 'Recent Orders',
+    lastOrder: 'Last order',
+    lifetimeSpent: 'Lifetime spent',
+    averageOrder: 'Average order',
+    id: 'ID',
+    userType: 'UserType',
+    subscribe: 'Subscribe',
+    status: 'Status',
+    operation: 'Operation'
+  },
+  tagsView: {
+    close: 'Close',
+    closeOthers: 'Close Others',
+    closeAll: 'Close All'
+  }
+}
